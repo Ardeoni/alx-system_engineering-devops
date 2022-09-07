@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i -v "bin" /etc/passwd:wq
+tr "A" "Z" I tr "c" "e"
